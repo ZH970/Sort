@@ -1,9 +1,9 @@
-Headers ´æ·ÅÍ·ÎÄ¼ş
+Headers å­˜æ”¾å¤´æ–‡ä»¶
 
-Release ´æ·Å¿ÉÖ´ĞĞÎÄ¼ş
+Release å­˜æ”¾å¯æ‰§è¡Œæ–‡ä»¶
 
-Sources ´æ·ÅÔ´ÎÄ¼ş
+Sources å­˜æ”¾æºæ–‡ä»¶
 
-**NOTE:**Reocmmand open project by clion or direactly use .exe in [Release](Release) 
+**NOTE:** Reocmmand open project by clion or direactly use .exe in [Release](Release) 
 
 *Actually it make mistake because I create .c in clion and use dynamic array. But it is not supported by c*
