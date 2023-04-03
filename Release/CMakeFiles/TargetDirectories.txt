@@ -1,0 +1,3 @@
+J:/Programing/C/Sort/Release/CMakeFiles/Sort.dir
+J:/Programing/C/Sort/Release/CMakeFiles/edit_cache.dir
+J:/Programing/C/Sort/Release/CMakeFiles/rebuild_cache.dir

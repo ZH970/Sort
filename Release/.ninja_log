@@ -1,0 +1,6 @@
+# ninja log v5
+1	108	7021464340000000	CMakeFiles/Sort.dir/Sources/main.c.obj	9589a6817cafa1ce
+3	126	7021464340000000	CMakeFiles/Sort.dir/Sources/Sort.c.obj	d080ad746394eea2
+128	248	7021464360000000	Sort.exe	1e04a8016ca410da
+2	106	7021466340000000	CMakeFiles/Sort.dir/Sources/main.c.obj	9589a6817cafa1ce
+110	247	7021466340000000	Sort.exe	1e04a8016ca410da

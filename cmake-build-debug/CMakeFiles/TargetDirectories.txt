@@ -1,0 +1,3 @@
+J:/Programing/C/Sort/cmake-build-debug/CMakeFiles/Sort.dir
+J:/Programing/C/Sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+J:/Programing/C/Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

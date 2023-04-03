@@ -1,0 +1,3 @@
+J:/Programing/C/Sort/out/build/x64-Debug/CMakeFiles/Sort.dir
+J:/Programing/C/Sort/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+J:/Programing/C/Sort/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
